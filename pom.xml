@@ -12,5 +12,6 @@
     <module>rpc.common</module>
     <module>rpc.demo</module>
     <module>rpc.transport</module>
+    <module>rpc.registry</module>
   </modules>
 </project>
