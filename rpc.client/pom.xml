@@ -22,7 +22,7 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.gbdex</groupId>
+			<groupId>com.netty.rpc</groupId>
 			<artifactId>rpc.protocol</artifactId>
 			<version>1.0.0</version>
 		</dependency>
